@@ -8,4 +8,4 @@ This PHP script uses the POEditor API to back up translations from your projects
 - cURL extension enabled in PHP
 - A POEditor API key
 
-# The script will retrieve all your POEditor projects and their languages, then export each translation as JSON files, saving them in the /backups/ directory within the project folder.
+The script will retrieve all your POEditor projects and their languages, then export each translation as JSON files, saving them in the /backups/ directory within the project folder.
